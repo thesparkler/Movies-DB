@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviesDB</string>
+    <string name="communication_error">Error in getting data. Please try again later.</string>
+    <string name="most_popular_movies">Most Popular Movies</string>
+    <string name="no_movies">Oops! No result found.</string>
+    <string name="error_data">Something went wrong! Please try again later.</string>
+</resources>
